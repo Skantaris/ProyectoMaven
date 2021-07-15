@@ -1,0 +1,7 @@
+organization=skantaris
+projectKey=Skantaris_ProyectoMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=Skantaris_ProyectoMaven
+ceTaskId=AXqr574XXLVVAP10q6L0
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqr574XXLVVAP10q6L0
